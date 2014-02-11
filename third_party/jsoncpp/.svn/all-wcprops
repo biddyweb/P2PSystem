@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/234073/trunk/src/third_party/jsoncpp
+END
+README.chromium
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/234073/trunk/src/third_party/jsoncpp/README.chromium
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/106815/trunk/src/third_party/jsoncpp/LICENSE
+END
+jsoncpp.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/234073/trunk/src/third_party/jsoncpp/jsoncpp.gypi
+END
+jsoncpp_untrusted.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/234073/trunk/src/third_party/jsoncpp/jsoncpp_untrusted.gyp
+END
+jsoncpp.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/234073/trunk/src/third_party/jsoncpp/jsoncpp.gyp
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/205592/trunk/src/third_party/jsoncpp/OWNERS
+END
